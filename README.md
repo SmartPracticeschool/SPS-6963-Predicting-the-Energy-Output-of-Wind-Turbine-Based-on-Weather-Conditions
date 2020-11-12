@@ -12,7 +12,8 @@ I used Iterative Waterfall SDLC model in making of this software. For the develo
 Technology Stack Used
 
 Jupyter Notebook (Python3) for Data Preprocessing, IBM Watson Studio for ML Model Testing and Prototyping, Python3 for ML model development and Flutter for front-end app development and Flask for back-end and integration with the model.
-Other Reference
+
+# Other References
 
 Weather Underground, Kaggle for Windfarm data, Climacell API, Heroku for hosting server
 Climacell API key has been removed from app.py
